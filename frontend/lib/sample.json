@@ -1,0 +1,141 @@
+{
+  "kind": "books#volume",
+  "id": "3gmPCwAAQBAJ",
+  "etag": "2X9KTBVBKl4",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/3gmPCwAAQBAJ",
+  "volumeInfo": {
+    "title": "Mossad",
+    "authors": [
+      "Michael Bar-Zohar",
+      "Nissim Mishal"
+    ],
+    "publisher": "Jaico Publishing House",
+    "publishedDate": "2016-02-12",
+    "description": "\u003cp\u003e INTERNATIONAL BESTSELLER\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eThe Greatest Missions of the Israeli Secret Service\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eFor decades, Israel’s renowned security arm, the Mossad, has been widely recognized as the best intelligence service in the world. In Mossad, authors Michael Bar-Zohar and Nissim Mishal take us behind the closed curtain with riveting, eye-opening, boots-on-the-ground accounts of the most dangerous, most crucial missions in the agency's 60-year history. \u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eThese are real, true Mission: Impossible stories brimming with high-octane action – right from the breath-taking capture of Nazi executioner Adolph Eichmann to the recent elimination of key Iranian nuclear scientists. If you are fascinated by the world of international espionage, intelligence, and covert “Black-Ops” warfare, then you will definitely find that the Mossad makes for some electrifying reading.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eMichael Bar-Zohar has fought in four Israeli-Arab wars, spent nine years beside David Ben-Gurion, Israel’s founder, become a fervent supporter of peace between Israel and her neighbours and served two terms in Parliament. He has written over 30 books and also won several major awards for his screenplays.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eNissim Mishal is one of the foremost TV personalities in Israel and the Director-General of Israeli state television. Apart from writing best-selling books about the history of Israel he has also co-authored a book on two thousand years of Judaism.\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "8184958455"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9788184958454"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 400,
+    "printedPageCount": 379,
+    "dimensions": {
+      "height": "14.90 cm",
+      "width": "21.60 cm",
+      "thickness": "2.70 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "History / General"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=3gmPCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70zmp_vreAaCTKav0nwKR5X1GsjV0iVGLklj-dBDKgcsuXaMWbZsC758rjfCdbjEzG87qlX_pknrAX6TmU60i2sDgWcZsFM4Em0YtWF3vMOTNJUSRtMwW_CUbz8VXROK6LkbVc7&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=3gmPCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72KLWKR7K859c4I6lcjo0qf43dRjz-VrbtnTYG2L7iag3S04IAz13EVsKQ-BnmPqigvc0h2fDUhSGI3lcVJ0NcM7ZIJosfka5S_f7P9-08Yl7uigjPUYlVeOhkbAZCoWGykwTqv&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=3gmPCwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73MMy1DqYMYYJwTF-SrqyDg-Z_OmUrubKceQQDMVGNes74d9qZW4SE2X9Cr-oSbpiMvTIsP10S8go6oSnp88-VB3qseYqn-3Ce4kjPI-lrxLza57dgpUoURAONomHqdJ0DzK-9V&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=3gmPCwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72t1w2R1KKEyZHj-MoPHjgeTqSEyywiyt8V4pyN30nSVZU9LuVeR-WVDSkaEJtIBDD21xd1JR-pxmoPBgGLWqA54H0eLsT3YoIaDlbmT1nA_zwG9859q28RxLTfi53tKl0Vd0Gr&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=3gmPCwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73ed7Tg6UKF68mRLnhp_YqrL8LtG6XrRWq_rQZ1xUHimAmx5Lzc7sqEjcwVd_J8q972_X7Z6vXECtAsCMRQMm3wFliFz23DoRaeXpmjKVoKkqk6h7GLWJ--ZKJJKKw4qr5x2jPg&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/content?id=3gmPCwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71RexIMCSd6w3_gwhsoDdXXpFhNqOlklGTyPFSTkp_cWT-kvuK9S_NgK5tcc5WV3Zt7u-b_Myao8sjyaHmHhdSFyteTYUZ15Kg1Zc64J98P0TCmkEm94iRgW-fSFdHixLhJgcVo&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=3gmPCwAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3gmPCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3gmPCwAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "3"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 470.82,
+      "currencyCode": "INR"
+    },
+    "retailPrice": {
+      "amount": 245.77,
+      "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3gmPCwAAQBAJ&rdid=book-3gmPCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 470820000,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amountInMicros": 245770000,
+          "currencyCode": "INR"
+        }
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.in/books/download/Mossad-sample-epub.acsm?id=3gmPCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.in/books/download/Mossad-sample-pdf.acsm?id=3gmPCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3gmPCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}
+
+{
+  "Books":[
+    {"_id":"5fa937c4e6a0670017fd73fa",
+      "firebase_id":"Fk3mjaNYcse8AfARYNoSzQddRlf2",
+      "name":"Mossad",
+      "pages":400,
+      "author":"Michael Bar-Zohar, Nissim Mishal",
+      "description":"INTERNATIONAL BESTSELLER The Greatest Missions of the Israeli Secret Service For decades, Israel’s renowned security arm, the Mossad, has been widely recognized as the best intelligence service in the world. In Mossad, authors Michael Bar-Zohar and Nissim Mishal take us behind the closed curtain with riveting, eye-opening, boots-on-the-ground accounts of the most dangerous, most crucial missions in the agency's 60-year history. These are real, true Mission: Impossible stories brimming with high-octane action – right from the breath-taking capture of Nazi executioner Adolph Eichmann to the recent elimination of key Iranian nuclear scientists. If you are fascinated by the world of international espionage, intelligence, and covert “Black-Ops” warfare, then you will definitely find that the Mossad makes for some electrifying reading. Michael Bar-Zohar has fought in four Israeli-Arab wars, spent nine years beside David Ben-Gurion, Israel’s founder, become a fervent supporter of peace between Israel and her neighbours and served two terms in Parliament. He has written over 30 books and also won several major awards for his screenplays. Nissim Mishal is one of the foremost TV personalities in Israel and the Director-General of Israeli state television. Apart from writing best-selling books about the history of Israel he has also co-authored a book on two thousand years of Judaism.",
+      "avg_rating":4.5,
+      "thumbnail_link":"http://books.google.com/books/content?id=3gmPCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "google_link":"https://play.google.com/store/books/details?id=3gmPCwAAQBAJ&source=gbs_api",
+      "price":15,
+      "__v":0},
+      {"_id":"5fa93873e6a0670017fd73fb",
+        "firebase_id":"Fk3mjaNYcse8AfARYNoSzQddRlf2",
+        "name":"The World of Ice & Fire",
+        "pages":336,
+        "author":"George R. R. Martin, Elio Garcia, Linda Antonsson",
+        "description":"NEW YORK TIMES BESTSELLER • The perfect holiday gift for fans of A Song of Ice and Fire and HBO’s Game of Thrones—an epic history of Westeros and the lands beyond, featuring hundreds of pages of all-new material from George R. R. Martin! If the past is prologue, then George R. R. Martin’s masterwork—the most inventive and entertaining fantasy saga of our time—warrants one hell of an introduction. At long last, it has arrived with The World of Ice & Fire. This lavishly illustrated volume is a comprehensive history of the Seven Kingdoms, providing vividly constructed accounts of the epic battles, bitter rivalries, and daring rebellions that lead to the events of A Song of Ice and Fire and HBO’s Game of Thrones. In a collaboration that’s been years in the making, Martin has teamed with Elio M. García, Jr., and Linda Antonsson, the founders of the renowned fan site Westeros.org—perhaps the only people who know this world almost as well as its visionary creator. Collected here is all the accumulated knowledge, scholarly speculation, and inherited folk tales of maesters and septons, maegi and singers, including • artwork and maps, with more than 170 original pieces • full family trees for Houses Stark, Lannister, and Targaryen • in-depth explorations of the history and culture of Westeros • 100% all-new material, more than half of which Martin wrote specifically for this book The definitive companion piece to George R. R. Martin’s dazzlingly conceived universe, The World of Ice & Fire is indeed proof that the pen is mightier than a storm of swords.",
+        "avg_rating":4,
+        "thumbnail_link":"http://books.google.com/books/content?id=hapdAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "google_link":"http://books.google.co.in/books?id=hapdAAAAQBAJ&dq=the+song+of+ice+and+fire&hl=&source=gbs_api",
+        "price":12,
+        "__v":0},
+]}

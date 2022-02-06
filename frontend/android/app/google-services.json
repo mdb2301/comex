@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "72446193422",
+    "firebase_url": "https://comex-6cb0e.firebaseio.com",
+    "project_id": "comex-6cb0e",
+    "storage_bucket": "comex-6cb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72446193422:android:ccccebf7f8793593dd715f",
+        "android_client_info": {
+          "package_name": "com.example.comex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72446193422-97bog4ov38ahi6rh5qnco6k076cnnaos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comex",
+            "certificate_hash": "1b4f0fed8c8b68a6e69f20a2e01efb2003bff5d4"
+          }
+        },
+        {
+          "client_id": "72446193422-mth9v4ebfej7mmhdrmhl0nfb96q8sfrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comex",
+            "certificate_hash": "612a0512dbc4f6bb135ce21efa517b5b079a7a2f"
+          }
+        },
+        {
+          "client_id": "72446193422-uoga3bp6jri8ah8ou0e6m6t51egv87tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWSog2dDDTTRY8cuz9isFnFxL5SVhmtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72446193422-uoga3bp6jri8ah8ou0e6m6t51egv87tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

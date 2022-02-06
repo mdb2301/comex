@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>72446193422-3u5j86jr4eccrhgugnr39ik6iba3ja7f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.72446193422-3u5j86jr4eccrhgugnr39ik6iba3ja7f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>72446193422-97bog4ov38ahi6rh5qnco6k076cnnaos.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpoHIMluR-4sTGdR0U2T0bgZcbOQDRZ_M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>72446193422</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.comex</string>
+	<key>PROJECT_ID</key>
+	<string>comex-6cb0e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>comex-6cb0e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:72446193422:ios:e3d45bb096ac736edd715f</string>
+	<key>DATABASE_URL</key>
+	<string>https://comex-6cb0e.firebaseio.com</string>
+</dict>
+</plist>
